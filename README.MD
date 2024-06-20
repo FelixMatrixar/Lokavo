@@ -10,9 +10,9 @@
 
 ### Introduction
 
-The food and beverage (F&B) industry in Indonesia has become one of the largest business sectors in the country. According to Badan Pusat Statistika (2022), in the first quarter of 2022, the F&B industry contributed more than a third, or 37.77%, to the non-oil and gas manufacturing GDP. With the growing population and increasing urbanization, the demand for F&B services continues to rise.
-Despite the promising opportunities in the F&B industry, statistics show that a significant portion of F&B businesses fail within a short period. According to CEO and Co-Founder of Eten Technologies, Debbie Winardi, as much as 80 percent of F&B businesses fail within less than five years. One of the main reasons for this failure is the lack of comprehensive business analysis before starting the venture. They fall into the trap of opening a business without conducting in-depth analyses regarding business location and market competitors.
-With these challenges in mind, the following question arises, "How can we assist entrepreneurs in the F&B sector in analyzing the location and type of business they desire?" To address this issue, we offer a solution with the "Lokavo" app that provides assistance to F&B entrepreneurs or local ventures in making smarter, data-driven decisions. We aim to provide a tool that helps them analyze business locations and understand market competition better. Therefore, we hope to reduce the failure rate of businesses in the F&B sector and support sustainable economic growth in Indonesia.
+The food and beverage (F&B) industry in Indonesia is a major business sector, contributing 37.77% to the non-oil and gas manufacturing GDP in the first quarter of 2022 (Badan Pusat Statistika, 2022). Despite its growth, up to 80% of F&B businesses fail within five years, often due to inadequate business analysis, particularly regarding location and competition (Debbie Winardi, CEO of Eten Technologies).
+
+To address this issue, our team developed the "Lokavo" app. This app helps F&B entrepreneurs make data-driven decisions about business locations and market competition, aiming to reduce the failure rate and promote sustainable economic growth in Indonesia.
 
 <div align="center">
   <h3>Our Team</h3>
@@ -109,4 +109,7 @@ https://youtu.be/sUSjhU3-FDk?t=283
 ## Special Thanks to :
 
 Advisors : Puspacinantya and Henrico Ferdian
-Mentors : Paulus Caesar
+Mentors :
+
+- Paulus Caesario Dito Putra Hartono
+-

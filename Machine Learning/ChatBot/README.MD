@@ -16,15 +16,15 @@ This project is a Flask application that uses Google Cloud services (Google Clou
 
 ## File Structure
 
-demo/
-├── chatbot.json # JSON file for demonstration purposes
-├── chatbot.py # Main application file
-method/
-├── nearbycompetitors.py # Module for handling nearby competitors
-├── queries.py # Module for database queries (if applicable)
-└── responses.py # Module for handling API responses
-app.py # Flask application main file
-requirements.txt # File listing dependencies
+demo/ <br>
+├── chatbot.json # JSON file for demonstration purposes <br>
+├── chatbot.py # Main application file <br>
+method/ <br>
+├── nearbycompetitors.py # Module for handling nearby competitors <br>
+├── queries.py # Module for database queries (if applicable) <br>
+└── responses.py # Module for handling API responses <br>
+app.py # Flask application main file <br>
+requirements.txt # File listing dependencies <br>
 
 - `demo/`: Contains a demo JSON file (`chatbot.json`) showcasing application output.
 - `method/`: Directory for various Python modules handling application logic.
