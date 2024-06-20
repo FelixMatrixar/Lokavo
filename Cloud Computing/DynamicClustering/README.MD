@@ -1,4 +1,4 @@
-# Project Name
+# Project Description
 
 This project demonstrates a Flask-based API for dynamic clustering using TensorFlow, with a demo of input and clustering results.
 

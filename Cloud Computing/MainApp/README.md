@@ -1,4 +1,4 @@
-# Project Name
+# Project Description
 
 This project is a Flask-based web application that provides a set of APIs to assist businesses in understanding their competitive landscape. The application leverages BigQuery to fetch details about nearby competitors and uses custom services (deployed other Cloud Run) to model and analyze competitor data. Additionally, the application offers endpoints to retrieve top competitors, relevant business articles, helping users stay informed about industry trends and insights.
 

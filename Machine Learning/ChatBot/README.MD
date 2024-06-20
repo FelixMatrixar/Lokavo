@@ -1,4 +1,4 @@
-# Project Name
+# Project Description
 
 This Flask-based application interacts with Google Cloud services to analyze competitor reviews and provide insights via lightweight stay-in-context chatbot.
 
