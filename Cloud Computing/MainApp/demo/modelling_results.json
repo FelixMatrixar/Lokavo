@@ -1,0 +1,564 @@
+{
+    "status": 200,
+    "count": 343,
+    "summary_header": "highly competitive",
+    "cluster_proportion": {
+        "A": 52,
+        "B": 115,
+        "C": 176
+    },
+    "cluster_interpretation": {
+        "A": "A didominasi oleh Kafe dan Kedai Kopi, popularitas terendah.",
+        "B": "B didominasi oleh Kafe dan Kedai Kopi, popularitas tertinggi.",
+        "C": "C didominasi oleh Kafe dan Kedai Kopi, popularitas sedang."
+    },
+    "long_interpretation": "Berdasarkan  statistik yang ada, terdapat tiga kelompok kompetitor utama di lokasi yang Anda pilih.  Kelompok A terdiri dari kafe dan kedai kopi dengan rating yang rendah dan popularitas yang  sedang. Jarak rata-rata ke kompetitor terdekat di kelompok ini cukup jauh. Kelompok B memiliki jumlah tempat terbanyak dan didominasi oleh kafe dan kedai kopi  dengan rating tinggi dan popularitas yang tinggi. Jarak rata-rata ke kompetitor terdekat di kelompok ini lebih dekat dibandingkan dengan kelompok A. Kelompok C memiliki  rating yang rendah dan popularitas yang sedang. Jarak rata-rata ke kompetitor terdekat di kelompok ini berada di antara kelompok A dan B. \n\nBerdasarkan informasi ini, Anda perlu mempertimbangkan beberapa faktor dalam menentukan strategi bisnis Anda. Jika Anda ingin  menargetkan pelanggan yang mencari kafe atau kedai kopi dengan rating tinggi, Anda mungkin perlu bersaing dengan kelompok B. Namun, persaingan di kelompok ini akan lebih ketat. Jika Anda ingin menargetkan pelanggan yang mencari kafe atau kedai kopi dengan  harga yang lebih terjangkau, Anda mungkin perlu bersaing dengan kelompok A. Namun, Anda perlu meningkatkan kualitas layanan dan produk Anda untuk meningkatkan rating dan popularitas Anda. Jika Anda ingin menargetkan pelanggan yang mencari kafe atau kedai kopi dengan lokasi yang strategis, Anda mungkin perlu bersaing dengan kelompok C. Namun, Anda perlu meningkatkan kualitas layanan dan  produk Anda untuk menarik pelanggan dari kelompok B. \n\nPenting untuk diingat bahwa ini hanyalah gambaran umum dari situasi kompetitif di lokasi yang Anda pilih. Anda perlu melakukan penelitian lebih lanjut untuk memahami dengan lebih detail tentang kompetitor Anda dan target pasar Anda. \n ",
+    "poi_map": [
+        {
+            "place_id": "ChIJSyf32i_zaS4ROIUYZ_NN3EU",
+            "name": "Pasar minggu",
+            "coordinates": {
+                "latitude": -6.2835312,
+                "longitude": 106.84595139999999
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ed09W3zcsuMrifr-aiueCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.95702&pitch=0&thumbfov=100",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJwTHexgzzaS4RwDVl4RTziaE",
+            "name": "Kulineran",
+            "coordinates": {
+                "latitude": -6.253082399999999,
+                "longitude": 106.8505143
+            },
+            "main_category": "Toko Makanan dan Minuman",
+            "featured_image": null,
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJyUPjqK_zaS4RlhyonHpUd4k",
+            "name": "Nasi Kebuli Kabita",
+            "coordinates": {
+                "latitude": -6.2494711,
+                "longitude": 106.85650249999999
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=amIy19TBGxbMLP-DnkOeCg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=69.758644&pitch=0&thumbfov=100",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJz19gdInzaS4R2xWOiUJY6mY",
+            "name": "Toko makanan",
+            "coordinates": {
+                "latitude": -6.2863568,
+                "longitude": 106.8616972
+            },
+            "main_category": "Toko Makanan dan Minuman",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUoiJ1w4HmnLYOQjYAPe_XdYEWLjeDi_VZPDVh=w408-h544-k-no",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJqYzdbWTtaS4RXU5UtuxjSoU",
+            "name": "IKHSAN STORE Pasar Rebo Jaktim",
+            "coordinates": {
+                "latitude": -6.3028324,
+                "longitude": 106.86311119999999
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwLuEepQ6wRYyvx5Z6kPFiyxDjI0eLllkbUScz=w408-h725-k-no",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ8Z_r53DtaS4RqBoKa8CSsvE",
+            "name": "Makassar",
+            "coordinates": {
+                "latitude": -6.2971616,
+                "longitude": 106.8875138
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPveJ-eGeIfnJLerpCIBIXZt7KWKe13RGAldOXX=w408-h725-k-no",
+            "reviews": 1.0,
+            "rating": 2.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJJf0GOurzaS4Rb9XWTenO24c",
+            "name": "Ngunyah Yuuuk",
+            "coordinates": {
+                "latitude": -6.2647143,
+                "longitude": 106.858886
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uV6FsAlcVq-ypACvV2jD2A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.640798&pitch=0&thumbfov=100",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJv7uQEYvzaS4RVEnqjRgC76Q",
+            "name": "Karang Taruna Food n Beverages",
+            "coordinates": {
+                "latitude": -6.2797107,
+                "longitude": 106.8890055
+            },
+            "main_category": "Pemasok dan Produsen",
+            "featured_image": null,
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJv1uy2PrzaS4RMQpaZxOInGQ",
+            "name": "Teras Mami",
+            "coordinates": {
+                "latitude": -6.262118999999999,
+                "longitude": 106.8817229
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTfoVQXLzMKfD34Ykp8iVS4E-QOlEFqxyYMviZ=w408-h306-k-no",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJrwd4TuLtaS4RM4kE_peT9zc",
+            "name": "Obing.id (cipayung)",
+            "coordinates": {
+                "latitude": -6.296227699999999,
+                "longitude": 106.8934455
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": null,
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJh0VUPW_zaS4RLFSJqd38r60",
+            "name": "EKS_kitchen",
+            "coordinates": {
+                "latitude": -6.2846595,
+                "longitude": 106.8775543
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNXB8i9KbmKRifGI3EiGdD5RobG_SPVsLzxVau=w408-h544-k-no",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJU7ve5m_zaS4RVZRM9Yuf_DU",
+            "name": "Lisda Food and drink",
+            "coordinates": {
+                "latitude": -6.2568465,
+                "longitude": 106.86024499999999
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNWz3B3bS3hCUWBOk7JT69jYARX48-0_yLlbdtF=w408-h326-k-no",
+            "reviews": 0.0,
+            "rating": 0.0,
+            "cluster": "A",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJPV2QUCrzaS4Ruva8lq2upIo",
+            "name": "WARKOP BABANG",
+            "coordinates": {
+                "latitude": -6.2754635,
+                "longitude": 106.856921
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTC-FTD5kX8UkmYQjPo4fno4wSaerQ1-r2lvwD=w408-h306-k-no",
+            "reviews": 16.0,
+            "rating": 4.9,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJBWLQ2onzaS4RL9BFxQBfN48",
+            "name": "Roti Bakar A3",
+            "coordinates": {
+                "latitude": -6.2468546,
+                "longitude": 106.8519577
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRFofCGkxDQUhSSVQ21luqIHfnklhDMfv9NA5U=w408-h886-k-no",
+            "reviews": 28.0,
+            "rating": 4.8,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJhe9W_0bzaS4Rui5l_dZjfjc",
+            "name": "MeeNUM Halim",
+            "coordinates": {
+                "latitude": -6.2649006,
+                "longitude": 106.8752944
+            },
+            "main_category": "Lainnya",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOS_4XfdPzSXmV5kAfTJSvOq4eoy6EztEbYl2Kh=w408-h544-k-no",
+            "reviews": 67.0,
+            "rating": 4.4,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJZRhjMmvzaS4RrWuq19k_7Ik",
+            "name": "Nuansa coffee and barber",
+            "coordinates": {
+                "latitude": -6.2427909,
+                "longitude": 106.873897
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2ALyBhFbTY3rRvAlft0cFp5Q2MY29a_nFpWwY=w426-h240-k-no",
+            "reviews": 276.0,
+            "rating": 4.7,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJm7zVRVnyaS4RksGGDyUgm4Y",
+            "name": "Undertwenty Coffee Co",
+            "coordinates": {
+                "latitude": -6.271641,
+                "longitude": 106.86020099999999
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlIdI8L16V76HUuI14ARmIauGacBvwZOCbpBGw=w408-h306-k-no",
+            "reviews": 204.0,
+            "rating": 4.6,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ0SbW5rjzaS4R4mXsz-GoJ4E",
+            "name": "ES TEH INDONESIA BATU AMPAR",
+            "coordinates": {
+                "latitude": -6.2844104,
+                "longitude": 106.8603838
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRwgqCYM38OUpSiCBvaayrh639RxAGRNcOtxB9=w521-h240-k-no",
+            "reviews": 65.0,
+            "rating": 3.9,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJo9yxWfLyaS4RSN_wN3BCah4",
+            "name": "Gunah Bubble Drink",
+            "coordinates": {
+                "latitude": -6.2742499,
+                "longitude": 106.8746661
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbBL5lr25rwEM23m7dtrrJ25N6kyKdti-TbQrO=w408-h544-k-no",
+            "reviews": 21.0,
+            "rating": 5.0,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ2XDrs2fyaS4Rayt7SYelRck",
+            "name": "Kedai Tifosi",
+            "coordinates": {
+                "latitude": -6.2796951,
+                "longitude": 106.85515199999999
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjwxmvQ7i_33dCGLRhDAW25cwgkCtO5cQDtGl7=w408-h306-k-no",
+            "reviews": 513.0,
+            "rating": 4.4,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJaxJN5xDzaS4RWMD72EzCOH4",
+            "name": "Mixue Pasar Minggu",
+            "coordinates": {
+                "latitude": -6.285270499999999,
+                "longitude": 106.84304829999999
+            },
+            "main_category": "Toko Makanan dan Minuman",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1-bCzvLUNovGX4OrGvOeDi-y5laKR-GSFPax9=w408-h541-k-no",
+            "reviews": 170.0,
+            "rating": 4.2,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJL7CEWFfyaS4RJKM6sgeZ4mk",
+            "name": "Griya Oetami x Koffie Oetami",
+            "coordinates": {
+                "latitude": -6.267279599999999,
+                "longitude": 106.8601281
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNROXcU1EJm6cQIj96xs9CeA8L7Zz9CEOL4verm=w408-h306-k-no",
+            "reviews": 726.0,
+            "rating": 4.5,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJPw1i5OLzaS4RgGDCslG-WHM",
+            "name": "chafid no 125",
+            "coordinates": {
+                "latitude": -6.2730016,
+                "longitude": 106.8644652
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nbfl3vWw7K1rjg70emrsQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.34555&pitch=0&thumbfov=100",
+            "reviews": 5.0,
+            "rating": 4.8,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJMRVQpEbyaS4RCVAVYdiZLEI",
+            "name": "Omah Pincuk",
+            "coordinates": {
+                "latitude": -6.272044999999999,
+                "longitude": 106.84669149999999
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv5JpAynf2QtoJU_ItjLDQSel21vksboUF4AGJ=w408-h306-k-no",
+            "reviews": 1067.0,
+            "rating": 4.1,
+            "cluster": "B",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJC9Oyge7zaS4RwH5EuojpB9w",
+            "name": "Warkop Boy 48",
+            "coordinates": {
+                "latitude": -6.289301999999999,
+                "longitude": 106.88299769999999
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIphjteb1E5Ya8keXAC4hs3cDlUCNqSy9XqcWq=w426-h240-k-no",
+            "reviews": 10.0,
+            "rating": 4.8,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ04hhLPXzaS4Rcuai_nG-4-Y",
+            "name": "Warung nasi uduk betawi bunda",
+            "coordinates": {
+                "latitude": -6.2878861,
+                "longitude": 106.8640147
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJk6Un30fPo00m1QnHLD5bS7i0IsW5Ys_X-DE=w408-h723-k-no",
+            "reviews": 3.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJdzKJTA7zaS4Rfpe8LGaJG5k",
+            "name": "YUDHA FOOD STALLS",
+            "coordinates": {
+                "latitude": -6.2868965999999995,
+                "longitude": 106.860894
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGe2TdYhxzSF0b4xXlBuqYnw4OWqXd_P2YlQXL=w408-h725-k-no",
+            "reviews": 1.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJH2r5kynzaS4RQjgij_mOtMo",
+            "name": "Triffanada Grup",
+            "coordinates": {
+                "latitude": -6.2872153,
+                "longitude": 106.8591969
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-_oRornwPj3-R8pVmzzFgUDsZOvqggwuJ0Tfj=w408-h455-k-no",
+            "reviews": 2.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJoZL1P3jzaS4RCCClD7Zf74Q",
+            "name": "Kopi Kulo Condet",
+            "coordinates": {
+                "latitude": -6.2682221,
+                "longitude": 106.8597001
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOf7RuWjzcBcLn2lfDrnFXibTVU0JCR0-nFuvvT=w408-h306-k-no",
+            "reviews": 11.0,
+            "rating": 4.6,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJAY_2Kj7zaS4RySzqHqBXKaI",
+            "name": "Angkringan L.A.T",
+            "coordinates": {
+                "latitude": -6.2865495,
+                "longitude": 106.87098189999999
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPIbTMZrq9k-VtI508WA2Ue92KSS-hgQfJ3wRXn=w426-h240-k-no",
+            "reviews": 12.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJnz3s7fXzaS4Rzm0DplVzE_o",
+            "name": "Warung kopi komban",
+            "coordinates": {
+                "latitude": -6.289407,
+                "longitude": 106.864306
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkjaFu4SzYmHX38xSxvCuPqeTMCXh2KccxrNCR=w426-h240-k-no",
+            "reviews": 19.0,
+            "rating": 4.9,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJDSxAsvjyaS4RKvtkLvmxr2o",
+            "name": "A&W Restoran - Pusat Grosir Cililitan",
+            "coordinates": {
+                "latitude": -6.2623014,
+                "longitude": 106.8652821
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJQQNSQK193Lo1jlRMjfJcjpyGFAKfrZID5hPZ=w426-h240-k-no",
+            "reviews": 121.0,
+            "rating": 4.1,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJvyTKMebyaS4Rr9yEEiaI-3w",
+            "name": "Douwe Egberts Coffee",
+            "coordinates": {
+                "latitude": -6.2656792,
+                "longitude": 106.8851605
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsoaGsN8qo6LVHE0tTzSJxUjwro6chnk6b7E1O=w426-h240-k-no",
+            "reviews": 89.0,
+            "rating": 3.9,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJF-RQ1rntaS4Rt0K4L8rz00c",
+            "name": "Kopi Kenangan - Ruko Pasar Rebo",
+            "coordinates": {
+                "latitude": -6.304727,
+                "longitude": 106.86294509999999
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPWHKh4UcbrtuaHVPQGjfxo0qh4WpnJKms4vKD=w408-h907-k-no",
+            "reviews": 6.0,
+            "rating": 3.3,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ2wYzAGHzaS4Rw60V6MdzxaA",
+            "name": "Aneka Nusantara, Pasar Minggu",
+            "coordinates": {
+                "latitude": -6.2863069,
+                "longitude": 106.8434798
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTPbCISX5vU5_5cCSh74fZFCU-z49zRdd0BXBH=w426-h240-k-no",
+            "reviews": 1.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJn6ELTTHzaS4RClNZ-zfawcY",
+            "name": "RumsPitoss",
+            "coordinates": {
+                "latitude": -6.288504,
+                "longitude": 106.906268
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6yn9uPRFNKdiD3xGuF_4iA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=219.62888&pitch=0&thumbfov=100",
+            "reviews": 3.0,
+            "rating": 5.0,
+            "cluster": "C",
+            "top": 0
+        },
+        {
+            "place_id": "ChIJ6UXad2ryaS4RpVDe8qU-Vew",
+            "name": "Bakso Titoti Wonogiri Cabang Pasar Minggu",
+            "coordinates": {
+                "latitude": -6.2698674,
+                "longitude": 106.84662499999999
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7y4zXsgbnhsreL4b4UwjBJQgQMLrCYj7duJzc=w408-h306-k-no",
+            "reviews": 8763.0,
+            "rating": 4.5,
+            "cluster": "B",
+            "top": 1
+        },
+        {
+            "place_id": "ChIJAxml5HryaS4RasiFwwBm1u0",
+            "name": "Ajwad Resto",
+            "coordinates": {
+                "latitude": -6.2897684,
+                "longitude": 106.8557735
+            },
+            "main_category": "Restoran",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj19jSzzdk1rAhSo0jL3Cu0cIUcKGb8m1vi2nU=w408-h306-k-no",
+            "reviews": 7264.0,
+            "rating": 4.7,
+            "cluster": "B",
+            "top": 2
+        },
+        {
+            "place_id": "ChIJW2EwrknyaS4RQZoo8Iq5760",
+            "name": "Bangi Kopi Pasar Minggu",
+            "coordinates": {
+                "latitude": -6.2651439,
+                "longitude": 106.8441543
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPggGe4cI2l3JmD2vAa8nb1HtLmXxxfWStpsbOT=w408-h306-k-no",
+            "reviews": 4040.0,
+            "rating": 4.4,
+            "cluster": "B",
+            "top": 3
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "status": 200,
+    "details": [
+        {
+            "place_id": "ChIJ6UXad2ryaS4RpVDe8qU-Vew",
+            "coordinates": {
+                "latitude": -6.2698674,
+                "longitude": 106.84662499999999
+            },
+            "main_category": "Restoran",
+            "reviews": 8763,
+            "rating": 4.5,
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7y4zXsgbnhsreL4b4UwjBJQgQMLrCYj7duJzc=w408-h306-k-no",
+            "address": "Jl. Raya Pasar Minggu No.1, RT.13/RW.5, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
+            "distance": 3.321619938607751
+        },
+        {
+            "place_id": "ChIJAxml5HryaS4RasiFwwBm1u0",
+            "coordinates": {
+                "latitude": -6.2897684,
+                "longitude": 106.8557735
+            },
+            "main_category": "Restoran",
+            "reviews": 7264,
+            "rating": 4.7,
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj19jSzzdk1rAhSo0jL3Cu0cIUcKGb8m1vi2nU=w408-h306-k-no",
+            "address": "Jl. Raya Condet No.50, RT.1/RW.3, Batu Ampar, Kec. Kramat jati, Jakarta, Daerah Khusus Ibukota Jakarta 13530",
+            "distance": 2.9898874318222974
+        },
+        {
+            "place_id": "ChIJW2EwrknyaS4RQZoo8Iq5760",
+            "coordinates": {
+                "latitude": -6.2651439,
+                "longitude": 106.8441543
+            },
+            "main_category": "Kafe dan Kedai Kopi",
+            "reviews": 4040,
+            "rating": 4.4,
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPggGe4cI2l3JmD2vAa8nb1HtLmXxxfWStpsbOT=w408-h306-k-no",
+            "address": "Jl. Raya Pasar Minggu No.12 KM.18 No, RT.13/RW.1, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
+            "distance": 3.6748411079028602
+        }
+    ]
+}

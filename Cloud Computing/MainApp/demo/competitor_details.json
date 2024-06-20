@@ -1,0 +1,54 @@
+{
+    "status": 200,
+    "details": [
+        {
+            "place_id": "ChIJ7Vy1JmTzaS4RUbKIPwzwchk",
+            "name": "OCEAN CAFE",
+            "address": "15, Jl. Pintu 2 Raya No.54, RT.15/RW.2, Pinang Ranti, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13560",
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hCC5zOHFjE6G2cqNPYuaGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.002174&pitch=0&thumbfov=100",
+            "reviews": 6,
+            "main_category": "Bar dan Lounge",
+            "categories": [
+                "Bar"
+            ],
+            "rating": 4.7,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 5
+            },
+            "coordinates": {
+                "latitude": -6.2953149999999996,
+                "longitude": 106.890008
+            },
+            "most_popular_times": [
+                {
+                    "hour_of_day": 23,
+                    "average_popularity": 76.83333333333333,
+                    "time_label": "23.00"
+                },
+                {
+                    "hour_of_day": 22,
+                    "average_popularity": 74.83333333333333,
+                    "time_label": "22.00"
+                },
+                {
+                    "hour_of_day": 0,
+                    "average_popularity": 65.33333333333333,
+                    "time_label": "00.00"
+                }
+            ],
+            "average_hour": 15.0,
+            "std_hour": 10.614455552060438,
+            "avg_popularity": 72.33333333333333,
+            "top_hour_popularity": 23.0,
+            "top_average_popularity": 76.83333333333333,
+            "nearest_competitor_place_id": "ChIJ46S3MqDyaS4Rs2dyqYtqaTQ",
+            "nearest_competitor_distance": 116.67840488206801,
+            "nearest_competitor_top_hour_popularity": 23.0,
+            "nearest_competitor_top_average_popularity": 60.0
+        }
+    ]
+}
