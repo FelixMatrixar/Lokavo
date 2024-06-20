@@ -110,5 +110,5 @@ Mentors :
 - Yovi Revikasari
 - Jessica Zerlina Sarwono
 - Muhammad Hasan Basri
-- Adit's mentor>>>?
-- Krisna's Mentor>>>?
+- Ibnu Batutah
+- Fauziyah Aulia Rachim
