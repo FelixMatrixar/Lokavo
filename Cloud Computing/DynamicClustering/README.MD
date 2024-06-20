@@ -16,11 +16,11 @@ This repository contains a Flask application that performs dynamic clustering us
 
 ## File Structure
 
-- app.py # Main application file
-- demo.py # Demonstration of the API
-- demo_input.json # Example JSON input for POST request
-- demo_results.json # Example JSON output demonstrating clustering results
-- requirements.txt # File listing dependencies
+app.py # Main application file <br>
+demo.py # Demonstration of the API <br>
+demo_input.json # Example JSON input for POST request <br>
+demo_results.json # Example JSON output demonstrating clustering results <br>
+requirements.txt # File listing dependencies <br>
 
 - `app.py`: Main Flask application file that implements dynamic clustering using TensorFlow.
 - `demo.py`: Script demonstrating how to interact with the API using example input (`demo_input.json`) and showcasing the clustering results (`demo_results.json`).

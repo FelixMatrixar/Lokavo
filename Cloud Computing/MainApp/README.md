@@ -16,24 +16,24 @@ This repository contains a Flask application designed to retrieve data about nea
 
 ## File Structure
 
-demo/
-├── competitor_details.json # JSON file for competitor details
-├── competitor_details.py # Script for competitor details
-├── modelling_results.json # JSON file for modelling results
-├── modelling_results.py # Script for modelling results
-├── top_competitors.json # JSON file for top competitors
-└── top_competitors.py # Script for top competitors
-method/
-├── articles.py # Module for handling articles
-├── inferencing.py # Module for inferencing
-├── modelling.py # Module for modelling
-├── nearbycompetitors.py # Module for handling nearby competitors
-├── preprocessing.py # Module for preprocessing data
-├── queries.py # Module for database queries
-├── responses.py # Module for handling API responses
-└── visualizing.py # Module for visualizing data
-app.py # Flask application main file
-requirements.txt # File listing dependencies
+demo/ <br>
+├── competitor_details.json # JSON file for competitor details <br>
+├── competitor_details.py # Script for competitor details <br>
+├── modelling_results.json # JSON file for modelling results <br>
+├── modelling_results.py # Script for modelling results <br>
+├── top_competitors.json # JSON file for top competitors <br>
+└── top_competitors.py # Script for top competitors <br>
+method/ <br>
+├── articles.py # Module for handling articles <br>
+├── inferencing.py # Module for inferencing <br>
+├── modelling.py # Module for modelling <br>
+├── nearbycompetitors.py # Module for handling nearby competitors <br>
+├── preprocessing.py # Module for preprocessing data <br>
+├── queries.py # Module for database queries <br>
+├── responses.py # Module for handling API responses <br>
+└── visualizing.py # Module for visualizing data <br>
+app.py # Flask application main file <br>
+requirements.txt # File listing dependencies <br>
 
 ## Endpoints
 
