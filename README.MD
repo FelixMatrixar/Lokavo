@@ -91,20 +91,14 @@ To address this issue, our team developed the "Lokavo" app. This app helps F&B e
 
 ## App Showcase
 
-<a href="https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view"><img src="/assets/cover.png"></a>
-<a href="https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view"><img src="/assets/pages.png"></a>
+<div align="center">
+  <img src="/assets/cover.png" ><br>
+</div>
+<div align="center">
+  <img src="/assets/showcase.png" ><br>
+</div>
 
-### Machine Learning Demo
-
-https://bit.ly/ml-techwaste
-
-### App Demo
-
-https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view
-
-### Youtube Link
-
-https://youtu.be/sUSjhU3-FDk?t=283
+Demo Link : https://drive.google.com/file/d/1FJV8z3JpY6t7jFhVPSRnQfnDmHHniZx1/view?usp=sharing
 
 ## Special Thanks to :
 
@@ -112,4 +106,6 @@ Advisors : Puspacinantya and Henrico Ferdian
 Mentors :
 
 - Paulus Caesario Dito Putra Hartono
--
+- Yovi Revikasari
+- Jessica Zerlina Sarwono
+- Muhammad Hasan Basri

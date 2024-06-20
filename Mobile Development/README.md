@@ -39,11 +39,11 @@ The app is built using the following technologies:
 - Chatbot History
 - Article
 - Profile
-- Profile Detail
+- Profile Details
 - Change Password
 - Analyze Result
 - Detail Analyze
-- Competitor Detail
+- Competitor Details
 - Chatbot
 
 ## License
