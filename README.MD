@@ -102,10 +102,13 @@ Demo Link : https://drive.google.com/file/d/1FJV8z3JpY6t7jFhVPSRnQfnDmHHniZx1/vi
 
 ## Special Thanks to :
 
-Advisors : Puspacinantya and Henrico Ferdian
+Advisors : Puspacinantya and Henrico Ferdian <br>
+
 Mentors :
 
 - Paulus Caesario Dito Putra Hartono
 - Yovi Revikasari
 - Jessica Zerlina Sarwono
 - Muhammad Hasan Basri
+- Adit's mentor>>>?
+- Krisna's Mentor>>>?
