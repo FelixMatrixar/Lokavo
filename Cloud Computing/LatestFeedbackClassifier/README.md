@@ -28,7 +28,7 @@ requirements.txt # File listing dependencies <br>
 
 ## Endpoints
 
-- `/predict` (POST) : Accepts JSON data containing latitude and longitude, performs dynamic clustering using TensorFlow, and returns the clustered results.
+- `/predict` (POST) : Gives prediction with reviews input.
 
 ## Dependencies
 
